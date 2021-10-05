@@ -12,10 +12,15 @@ A. Concurrency Series in Python.
 3. Multithreading Libraries  [Single Machine]
 4. Asyncio Libraries
 5. Dask, Ray, joblib, Pyspark (MlLib) [Multiple Machine] / Distributed Processing
-6. ● Multi-processing and Distributed processing using Dask, joblib and Pyspark
+6. Multi-processing and Distributed processing using Dask, joblib and Pyspark
 (MLlib).
 
 B. Other Ideas
-1. 	Design Patterns
-2. 	Kedro Main Components (Runner, Context,) & useful plugins
+1. How mail server works?
+2. Design Patterns
+  a. 	Design patterns in common use cases - Spark, Kubernetes, asyncio, etc
+2. Kedro Main Components (Runner, Context,) & useful plugins
+3. Contributed to open source projects	
+4. How jupyter runs, what's a jupyter lab?
+5. 
 
