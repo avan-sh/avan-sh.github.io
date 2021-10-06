@@ -15,7 +15,15 @@ A. Concurrency Series in Python.
 6. Multi-processing and Distributed processing using Dask, joblib and Pyspark
 (MLlib).
 
-B. Other Ideas
+B. Kedro Deployment Series -- On normal workflows, See if you can create starters for these
+1. Airflow
+2. Flyte
+3. Kubeflow
+4. Dagster
+5. Prefect
+
+
+C. Other Ideas
 1. How mail server works?
 2. Design Patterns
   a. 	Design patterns in common use cases - Spark, Kubernetes, asyncio, etc
