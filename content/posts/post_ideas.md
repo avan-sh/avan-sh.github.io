@@ -25,10 +25,16 @@ B. Kedro Deployment Series -- On normal workflows, See if you can create starter
 
 C. Other Ideas
 1. How mail server works?
-2. Design Patterns
-  a. 	Design patterns in common use cases - Spark, Kubernetes, asyncio, etc
 2. Kedro Main Components (Runner, Context,) & useful plugins
 3. Contributed to open source projects	
 4. How jupyter runs, what's a jupyter lab?
 5. 
 
+
+D. Dissecting a Framework
+  a. 	Design patterns in common use cases - Spark, Kubernetes, asyncio, etc
+  - For various frameworks the following patterns
+      -  User Building Blocks
+      -  Runner Building Blocks
+      -  How they run end to end
+  
