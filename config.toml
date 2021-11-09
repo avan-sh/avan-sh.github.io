@@ -1,5 +1,5 @@
 baseURL = "https://avan-sh.github.io"
-title   = "Avaneesh"
+title   = "Avaneesh Yembadi"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -60,7 +60,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Data Engineer // Software Engineer"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -127,12 +127,12 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "~/home/avaneesh"
+    logoText     = "~/avaneesh"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
+    logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
+    logoCursorColor    = "#67a2c9"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
 
@@ -177,7 +177,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = ""
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
