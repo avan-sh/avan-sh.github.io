@@ -1,4 +1,4 @@
-baseURL = "https://avaneesh-cc.github.io"
+baseURL = "https://avan-sh.github.io"
 title   = "Avaneesh"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -169,7 +169,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/avaneesh-cc"
+    url  = "https://github.com/avan-sh"
 
   [[params.social]]
     name = "linkedin"
